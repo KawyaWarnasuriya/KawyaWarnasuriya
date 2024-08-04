@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Kawya Warnasuriya
 
-- 🌱 I’m currently learning Html, css, java
+- 🌱 I’m currently learning Html, Css, java
 
