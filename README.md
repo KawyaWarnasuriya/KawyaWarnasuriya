@@ -1,4 +1,9 @@
 - 👋 Hi, I’m Kawya Warnasuriya
 
-- 🌱 I’m currently learning Html, Css, java
+- 🌱 I have studyed Python , Java Languages.
+- 🌱 I have studyed Html, Css, javaScript, Angular.
+- 🌱 I have studyed mobile developmenet using Flutter(Dart Language).
+  
+- 
+- 
 
