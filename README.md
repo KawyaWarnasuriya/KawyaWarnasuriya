@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6768c8&center=true&vCenter=true&width=600&lines=Hi,+I+am+Kawya+Warnasuriya;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0639f9&center=true&vCenter=true&width=600&lines=Hi,+I+am+Kawya+Warnasuriya;" alt="Typing SVG" />
 </p>
 
 ### <p align="center">Frontend Developer | Angular Developer | UI/UX Designer | Mobile App Developer | Database Management from Sri Lanka </p>
