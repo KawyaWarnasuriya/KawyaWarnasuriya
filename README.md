@@ -27,7 +27,11 @@
   <a href="https://github.com/kawyawarnasuriya">
     <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
   </a>
+  <a href="https://medium.com/@kawi5570">
+    <img src="https://img.shields.io/badge/-Medium-black?style=flat-square&logo=medium"/>
+  </a>
 </p>
+
 
 ---
 
