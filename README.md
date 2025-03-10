@@ -74,14 +74,18 @@
 
 ---
 
-### <p align="center">🌐 Most Used Languages </p>
+### 🌐 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawyawarnasuriya&layout=compact&theme=dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KawyaWarnasuriya&theme=dark" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KawyaWarnasuriya&theme=dark" alt="Most Used Languages" />
 </p>
 
 ---
+
 ### 📊 GitHub Stats  
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=KawyaWarnasuriya&show_icons=true&theme=radical" alt="GitHub Stats" hspace="10"/>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KawyaWarnasuriya&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KawyaWarnasuriya&theme=radical" alt="Productive Time" />
 </p>
+
 
