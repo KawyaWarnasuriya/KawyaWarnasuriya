@@ -22,54 +22,64 @@
 ### <p align="center"> 👥 Connect with Me </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/kawyawarnasuriya">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="50" width="50" style="border-radius:10px; padding:5px; margin:5px; background:#f4f4f4"/>
   </a>
   <a href="https://github.com/kawyawarnasuriya">
-    <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" width="50" style="border-radius:10px; padding:5px; margin:5px; background:#f4f4f4"/>
   </a>
   <a href="https://medium.com/@kawi5570">
-    <img src="https://img.shields.io/badge/-Medium-black?style=flat-square&logo=medium"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" height="50" width="50" style="border-radius:10px; padding:5px; margin:5px; background:#f4f4f4"/>
   </a>
 </p>
+
+
+
+
 
 
 ---
 
-### <p align="left">🛠️ My Skills & Tools </p>
-  ### 🖥️ Language  
+### 🛠️ My Skills & Tools  
+
+#### 🖥️ Languages  
 <p align="left">
-  <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java"/>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" width="50" style="border-radius:10px; padding:5px; margin:5px; background:#f4f4f4"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" width="50" style="border-radius:10px; padding:5px; margin:5px; background:#f4f4f4"/>
 </p>
 
-### 🎨 Front-end Development  
+#### 🎨 Front-end Development  
 <p align="left">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular"/>
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" width="50" style="border-radius:10px; padding:5px; margin:5px; background:#f4f4f4"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" width="50" style="border-radius:10px; padding:5px; margin:5px; background:#f4f4f4"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" width="50" style="border-radius:10px; padding:5px; margin:5px; background:#f4f4f4"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="50" width="50" style="border-radius:10px; padding:5px; margin:5px; background:#f4f4f4"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" width="50" style="border-radius:10px; padding:5px; margin:5px; background:#f4f4f4"/>
 </p>
 
-### 📱 Mobile Development  
+#### 📱 Mobile Development  
 <p align="left">
-  <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter"/>
-  <img src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="50" width="50" style="border-radius:10px; padding:5px; margin:5px; background:#f4f4f4"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="50" width="50" style="border-radius:10px; padding:5px; margin:5px; background:#f4f4f4"/>
 </p>
 
-### 🗄️ Database  
+#### 🗄️ Database  
 <p align="left">
-  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase"/>
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="50" width="50" style="border-radius:10px; padding:5px; margin:5px; background:#f4f4f4"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" width="50" style="border-radius:10px; padding:5px; margin:5px; background:#f4f4f4"/>
 </p>
 
-### 🔧 Tools & Others  
+#### 🔧 Tools & Others  
 <p align="left">
-  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma"/>
-  <img src="https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva"/>
-  <img src="https://img.shields.io/badge/-NetBeans-1B6AC6?style=flat-square&logo=apache-netbeans-ide"/>
-  <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" width="50" style="border-radius:10px; padding:5px; margin:5px; background:#f4f4f4"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" width="50" style="border-radius:10px; padding:5px; margin:5px; background:#f4f4f4"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="50" width="50" style="border-radius:10px; padding:5px; margin:5px; background:#f4f4f4"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" height="50" width="50" style="border-radius:10px; padding:5px; margin:5px; background:#f4f4f4"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50" width="50" style="border-radius:10px; padding:5px; margin:5px; background:#f4f4f4"/>
 </p>
+
+
+
+
 
 
 ---
