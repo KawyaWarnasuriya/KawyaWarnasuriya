@@ -3,13 +3,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0639f9&center=true&vCenter=true&width=600&lines=Hi,+I+am+Kawya+Warnasuriya;" alt="Typing SVG" />
 </p>
 
-### <p align="center">Frontend Developer | Angular Developer | UI/UX Designer | Mobile App Developer | Database Management from Sri Lanka </p>
+### <p align="center">Fullstack Developer | Angular Developer | UI/UX Designer | Mobile App Developer | Database Management from Sri Lanka </p>
 
 ### 🌟 About Me
 - 💪 I'm currently Undergraduate Trainee Engineer. This is **My Portfolio** [View](https://kawyawarnasuriya.github.io/portfolio/)
 - 📚 I'm currently learning **Angular | React | Flutter**
 - 📚 I regularly write articles from Medium [View](https://medium.com/@kawi5570)
-- 📱 Ask me about **Frontend Development & Flutter**
+- 📱 Ask me about **Fullstack & Flutter Development**
 - ✉️ How to reach me: **kawyawarnasooriya2000@gmail.com**
   
 <p align="left">
