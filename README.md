@@ -51,6 +51,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" width="50" style="border-radius:10px; padding:5px; margin:5px; background:#f4f4f4"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="50" width="50" style="border-radius:10px; padding:5px; margin:5px; background:#f4f4f4"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="50" width="50" style="border-radius:10px; padding:5px; margin:5px; background:#f4f4f4"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" width="50" style="border-radius:10px; padding:5px; margin:5px; background:#f4f4f4"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="50" width="50" style="border-radius:10px; padding:5px; margin:5px; background:#f4f4f4"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="50" width="50" style="border-radius:10px; padding:5px; margin:5px; background:#f4f4f4"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="50" width="50" style="border-radius:10px; padding:5px; margin:5px; background:#f4f4f4"/>
