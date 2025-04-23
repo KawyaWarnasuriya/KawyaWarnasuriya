@@ -46,7 +46,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" width="50" style="border-radius:10px; padding:5px; margin:5px; background:#f4f4f4"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" width="50" style="border-radius:10px; padding:5px; margin:5px; background:#f4f4f4"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" width="50" style="border-radius:10px; padding:5px; margin:5px; background:#f4f4f4"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" width="50" style="border-radius:10px; padding:5px; margin:5px; background:#f4f4f4"/>
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Unofficial_JavaScript_logo_2.svg" height="50" width="50" style="border-radius:10px; padding:5px; margin:5px; background:#ffffff"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="50" width="50" style="border-radius:10px; padding:5px; margin:5px; background:#f4f4f4"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" width="50" style="border-radius:10px; padding:5px; margin:5px; background:#f4f4f4"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="50" width="50" style="border-radius:10px; padding:5px; margin:5px; background:#f4f4f4"/>
@@ -57,8 +57,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="50" width="50" style="border-radius:10px; padding:5px; margin:5px; background:#f4f4f4"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" width="50" style="border-radius:10px; padding:5px; margin:5px; background:#f4f4f4"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="50" width="50" style="border-radius:10px; padding:5px; margin:5px; background:#f4f4f4"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" height="50" width="50" style="border-radius:10px; padding:5px; margin:5px; background:#f4f4f4"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" height="50" width="50" style="border-radius:10px; padding:5px; margin:5px; background:#f4f4f4"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" height="50" width="50" style="border-radius:10px; padding:5px; margin:5px; background:#ffffff"/>
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Adobe_Illustrator_CC_icon.svg" height="50" width="50" style="border-radius:10px; padding:5px; margin:5px; background:#ffffff"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" width="50" style="border-radius:10px; padding:5px; margin:5px; background:#f4f4f4"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" width="50" style="border-radius:10px; padding:5px; margin:5px; background:#f4f4f4"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50" width="50" style="border-radius:10px; padding:5px; margin:5px; background:#f4f4f4"/>
@@ -77,8 +77,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KawyaWarnasuriya&theme=dark" alt="Top Languages" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KawyaWarnasuriya&theme=dark" alt="Most Used Languages" />
 </p>
-
----
 
 ### 📊 GitHub Stats  
 <p align="center">
