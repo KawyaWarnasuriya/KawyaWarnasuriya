@@ -21,7 +21,7 @@
 
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KawyaWarnasuriya&theme=onestar&margin-w=15" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=KawyaWarnasuriya&theme=flat&margin-w=15" alt="GitHub Trophies">
 </p>
 
 
@@ -83,10 +83,15 @@
 </p>
 
 
-### <p align="center"> 📊 GitHub Stats  
+<h3 align="center">📊 GitHub Stats</h3>
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KawyaWarnasuriya&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KawyaWarnasuriya&theme=radical" alt="Productive Time" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KawyaWarnasuriya&show_icons=true&theme=radical" alt="Kawya's GitHub Stats" />
 </p>
 
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=KawyaWarnasuriya&theme=radical" alt="GitHub Streak" />
+  </a>
+</p>
 
