@@ -17,6 +17,14 @@
   <img src="https://img.shields.io/github/followers/KawyaWarnasuriya?style=social" alt="GitHub Followers"/>
 </p>
 
+<br>
+
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KawyaWarnasuriya&theme=onestar&margin-w=15" alt="GitHub Trophies">
+</p>
+
+
 ---
 
 ### <p align="center"> 👥 Connect with Me </p>
