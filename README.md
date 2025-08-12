@@ -79,7 +79,7 @@
 ### <p align="center"> 🌐 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KawyaWarnasuriya&layout=compact&theme=radical" alt="Top Langs">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KawyaWarnasuriya&layout=compact&theme=flat&margin-w=15" alt="Top Langs">
 </p>
 
 
@@ -94,4 +94,30 @@
     <img src="https://streak-stats.demolab.com/?user=KawyaWarnasuriya&theme=radical" alt="GitHub Streak" />
   </a>
 </p>
+<br>
 
+## 🎯 My Projects (Individual)
+
+- 🏷️ **Portfolio** – This site showcases my skills, projects, and achievements.  
+  [![Live Demo](https://img.shields.io/badge/Demo-Click%20Here-blue?style=flat&logo=html5)](https://kawyawarnasuriya.github.io/portfolio/)
+
+- 🏷️ **Portfolio-Update** – This site showcases my skills, projects, and achievements using Angular, Spring Boot, Firebase, and EmailJS  
+  [![Live Demo](https://img.shields.io/badge/Demo-Click%20Here-blue?style=flat&logo=angular)](#)
+
+- 🎬 **Movie Explorer** – A movie discovery app built with React, Material UI, and TMDB API.  
+  [![Live Demo](https://img.shields.io/badge/Demo-Click%20Here-teal?style=flat&logo=react)](https://movie-explorer-git-master-kawiws-projects.vercel.app/)
+
+- 🍽️ **Flaver Fleet** – A food e-commerce website.  
+  [![Live Demo](https://img.shields.io/badge/Demo-Click%20Here-orange?style=flat&logo=html5)](https://kawyawarnasuriya.github.io/FlavorFleet-Website/)
+
+- 💾 **MDM** – A simple Laravel-based Master Data Management System using Blade, MySQL, and Bootstrap/Tailwind.   
+  [![Live Demo](https://img.shields.io/badge/Demo-Click%20Here-red?style=flat&logo=laravel)](https://drive.google.com/file/d/12uGbO0ZFPEGYaR-OMuRUAROHoXAMqUzb/view?usp=sharing)
+
+- 🛒 **Cloud-Based Billing System** – Cloud-based billing system built with HTML, CSS, JavaScript, jQuery, PHP & MySQL  
+  [![Live Demo](https://img.shields.io/badge/Demo-Click%20Here-blue?style=flat&logo=javascript)](https://drive.google.com/file/d/1e818DB_FFLt04jvcra-EJIz99B-YFTrd/view?usp=sharing)
+
+- 🧪 **LaravelTestSuite** – A responsive simple Laravel application to manage daily tests with ease and clarity.  
+  [![Live Demo](https://img.shields.io/badge/Demo-Click%20Here-red?style=flat&logo=laravel)](https://drive.google.com/file/d/1g1anF9SZzxGWMBxad8gQhC2UCnOosfHX/view?usp=sharing)
+
+- 🧮 **Simple Calculator** – A JavaScript calculator with history tracking  
+  [![Live Demo](https://img.shields.io/badge/Demo-Click%20Here-lightgrey?style=flat&logo=javascript)](https://kawyawarnasuriya.github.io/Simple-Calculator/)
