@@ -96,7 +96,7 @@
 </p>
 <br>
 
-## 🎯 My Projects (Individual)
+## 🎯 My Projects 
 
 - 🏷️ **Portfolio** – This site showcases my skills, projects, and achievements.  
   [![Live Demo](https://img.shields.io/badge/Demo-Click%20Here-blue?style=flat&logo=html5)](https://kawyawarnasuriya.github.io/portfolio/)
