@@ -101,9 +101,6 @@
 - 🏷️ **Portfolio** – This site showcases my skills, projects, and achievements.  
   [![Live Demo](https://img.shields.io/badge/Demo-Click%20Here-blue?style=flat&logo=html5)](https://kawyawarnasuriya.github.io/portfolio/)
 
-- 🏷️ **Portfolio-Update** – This site showcases my skills, projects, and achievements using Angular, Spring Boot, Firebase, and EmailJS  
-  [![Live Demo](https://img.shields.io/badge/Demo-Click%20Here-blue?style=flat&logo=angular)](#)
-
 - 🎬 **Movie Explorer** – A movie discovery app built with React, Material UI, and TMDB API.  
   [![Live Demo](https://img.shields.io/badge/Demo-Click%20Here-teal?style=flat&logo=react)](https://movie-explorer-git-master-kawiws-projects.vercel.app/)
 
