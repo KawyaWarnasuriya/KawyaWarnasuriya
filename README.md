@@ -7,7 +7,7 @@
 
 ### 🌟 About Me
 - 💪 I'm currently Undergraduate Trainee Engineer. This is **My Portfolio** [View](https://portfolio-seven-wheat-68.vercel.app/)
-- 📚 I'm currently learning **Angular | React | Laravel | Flutter | MERN**
+- 📚 I'm currently learning **React | Laravel | Flutter | MERN**
 - 📚 I regularly write articles from Medium [View](https://medium.com/@kawi5570)
 - 📱 Ask me about **Fullstack & Flutter Development**
 - ✉️ How to reach me: **kawyawarnasooriya2000@gmail.com**
