@@ -6,7 +6,7 @@
 ### <p align="center">Fullstack Developer | Mobile App Developer | Angular Developer | UI/UX Designer | Database Management from Sri Lanka </p>
 
 ### 🌟 About Me
-- 💪 I'm currently Undergraduate Trainee Engineer. This is **My Portfolio** [View](https://portfolio-seven-wheat-68.vercel.app/)
+- 💪 I'm currently Undergraduate Software Engineer Intern. This is **My Portfolio** [View](https://portfolio-seven-wheat-68.vercel.app/)
 - 📚 I'm currently learning **React | Laravel | Flutter | MERN**
 - 📚 I regularly write articles from Medium [View](https://medium.com/@kawi5570)
 - 📱 Ask me about **Fullstack & Flutter Development**
