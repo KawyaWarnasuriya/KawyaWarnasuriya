@@ -10,6 +10,7 @@
 - 📚 I'm currently learning **React | Laravel | Flutter | MERN**
 - 📚 I regularly write articles from Medium [View](https://medium.com/@kawi5570)
 - 📱 Ask me about **Fullstack & Flutter Development**
+- 💼 Intern at **Perpova Developers**
 - ✉️ How to reach me: **kawyawarnasooriya2000@gmail.com**
   
 <p align="left">
