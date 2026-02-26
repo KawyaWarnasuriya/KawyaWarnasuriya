@@ -21,13 +21,6 @@
 <br>
 
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KawyaWarnasuriya&theme=flat&margin-w=15" alt="GitHub Trophies">
-</p>
-
-
----
-
 ### <p align="center"> 👥 Connect with Me </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/kawyawarnasuriya">
@@ -80,24 +73,23 @@
 ### <p align="center"> 🌐 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KawyaWarnasuriya&layout=compact&theme=flat&margin-w=15" alt="Top Langs">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KawyaWarnasuriya&theme=radical" />
 </p>
 
 
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KawyaWarnasuriya&show_icons=true&theme=radical" alt="Kawya's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=KawyaWarnasuriya&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=KawyaWarnasuriya&theme=radical" alt="GitHub Streak" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KawyaWarnasuriya&theme=radical" />
 </p>
+
 <br>
 
-## 🎯 My Projects 
+<!--## 🎯 My Projects 
 
 - 🏷️ **Portfolio** – This site showcases my skills, projects, and achievements.  
   [![Live Demo](https://img.shields.io/badge/Demo-Click%20Here-blue?style=flat&logo=html5)](https://kawyawarnasuriya.github.io/portfolio/)
@@ -118,4 +110,4 @@
   [![Live Demo](https://img.shields.io/badge/Demo-Click%20Here-red?style=flat&logo=laravel)](https://drive.google.com/file/d/1g1anF9SZzxGWMBxad8gQhC2UCnOosfHX/view?usp=sharing)
 
 - 🧮 **Simple Calculator** – A JavaScript calculator with history tracking  
-  [![Live Demo](https://img.shields.io/badge/Demo-Click%20Here-lightgrey?style=flat&logo=javascript)](https://kawyawarnasuriya.github.io/Simple-Calculator/)
+  [![Live Demo](https://img.shields.io/badge/Demo-Click%20Here-lightgrey?style=flat&logo=javascript)](https://kawyawarnasuriya.github.io/Simple-Calculator/)-->
