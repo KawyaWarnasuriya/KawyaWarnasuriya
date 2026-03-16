@@ -7,7 +7,7 @@
 
 ### 🌟 About Me
 - 💪 I'm currently Undergraduate Software Engineer Intern. This is **My Portfolio** [View](https://portfolio-seven-wheat-68.vercel.app/)
-- 📚 I'm currently learning **React | Laravel | Flutter | MERN**
+- 📚 I'm currently learning **C# | MERN**
 - 📚 I regularly write articles from Medium [View](https://medium.com/@kawi5570)
 - 📱 Ask me about **Fullstack & Flutter Development**
 - 💼 Intern at **Perpova Developers**
@@ -49,6 +49,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" width="50" style="border-radius:10px; padding:5px; margin:5px; background:#f4f4f4"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="50" width="50" style="border-radius:10px; padding:5px; margin:5px; background:#f4f4f4"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="50" width="50" style="border-radius:10px; padding:5px; margin:5px; background:#f4f4f4"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="50" width="50" style="border-radius:10px; padding:5px; margin:5px; background:#f4f4f4"/>
   <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" height="50" width="50" style="border-radius:10px; padding:5px; margin:5px; background:#f4f4f4"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="50" width="50" style="border-radius:10px; padding:5px; margin:5px; background:#f4f4f4"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="50" width="50" style="border-radius:10px; padding:5px; margin:5px; background:#f4f4f4"/>
@@ -70,21 +71,19 @@
 
 <br>
 
-### <p align="center"> 🌐 Most Used Languages
+<h3 align="center">📊 GitHub Dashboard</h3>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KawyaWarnasuriya&theme=radical" />
-</p>
-
-
-<h3 align="center">📊 GitHub Stats</h3>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=KawyaWarnasuriya&theme=radical&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=KawyaWarnasuriya&show_icons=true&theme=radical&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KawyaWarnasuriya&layout=compact&theme=radical&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KawyaWarnasuriya&theme=radical" />
+<img src="https://streak-stats.demolab.com?user=KawyaWarnasuriya&theme=radical&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KawyaWarnasuriya&theme=react-dark"/>
 </p>
 
 <br>
