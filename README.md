@@ -1,7 +1,10 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Kawya%20Warnasuriya&fontSize=70&fontAlign=50&fontAlignY=35&fontColor=ffffff&animation=twinkling"/>
+</div>
 
-<p align="center">
+<!--<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0639f9&center=true&vCenter=true&width=600&lines=Hi,+I+am+Kawya+Warnasuriya;" alt="Typing SVG" />
-</p>
+</p>-->
 
 ### <p align="center">Fullstack Developer | Mobile App Developer | Laravel Developer | UI/UX Designer | Database Management from Sri Lanka </p>
 
@@ -83,10 +86,13 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KawyaWarnasuriya&theme=react-dark"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KawyaWarnasuriya&theme=react-dark" width="60%"/>
 </p>
 
 <br>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer"/>
+</div>
 
 <!--## 🎯 My Projects 
 
