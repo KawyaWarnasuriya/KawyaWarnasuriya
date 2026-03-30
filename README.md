@@ -13,7 +13,8 @@
 - 📚 I'm currently learning **C# | MERN**
 - 📚 I regularly write articles from Medium [View](https://medium.com/@kawi5570)
 - 📱 Ask me about **Fullstack & Flutter Development**
-- 💼 Intern at **Perpova Developers**
+- 💼 Intern at **Perpova Developers** (6 Month)
+- 💼 Intern at **Techorin**
 - ✉️ How to reach me: **kawyawarnasooriya2000@gmail.com**
   
 <p align="left">
